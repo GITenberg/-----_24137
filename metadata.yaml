@@ -1,0 +1,31 @@
+_repo: '-----_24137'
+_version: 0.1.0
+alternative_title:
+- Dong Jing Meng Hua Lu
+- 东京梦华录
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meng, Yuanlao, active 1126-1147
+    alias: 孟元老
+    gutenberg_agent_id: '26268'
+    url: http://www.gutenberg.org/2009/agents/26268
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24137'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kaifeng Xian (China) -- Description and travel'
+- !lcsh 'China -- Economic conditions -- To 1644'
+- !lcsh 'China -- Social conditions'
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Sources'
+- !lcc 'DS'
+title: 東京夢華錄
+url: http://www.gutenberg.org/ebooks/24137
